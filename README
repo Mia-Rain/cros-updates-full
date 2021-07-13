@@ -1,0 +1,14 @@
+This is a micro mirror of 
+> https://cros-updates-serving.appspot.com/
+due to the extreme size a full mirror would be
+(around 3364 GB)
+there is only text files featuring links
+------
+each folder holds a link-list file containing the links for that board
+------
+if a link is missing it can either be found one one of the page$NUM.txt files
+in ./source; or was not on archive.org
+------
+msg me @ @mia:chat.unix.lgbt on matrix
+if I missed anything; I will attempt to find it and add it here
+------
